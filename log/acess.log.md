@@ -1,0 +1,20 @@
+﻿
+
+
+1. 2025-10-18 08:05:35 [INFO] Tai tai lieu bai hoc
+2. 2025-10-18 08:09:03 [INFO] Xem lich hoc tuan nay
+3. 2025-10-18 08:13:31 [WARNING] Lop 1 sap si so
+4. 2025-10-18 08:17:59 [ERROR] Khong tim thay trang /lich-thi (404)
+5. 2025-10-18 08:21:27 [WARNING] Lop GT01 sap du si so
+6. 2025-10-18 08:25:55 [ERROR] Het thoi gian cho (timeout)
+7. 2025-10-18 08:29:23 [INFO] Dang ky lop hoc thu
+8. 2025-10-18 08:33:51 [ERROR] Ket noi may chu du lieu that bai
+9. 2025-10-18 08:37:19 [ERROR] Ket noi may chu du lieu that bai
+10. 2025-10-18 08:41:47 [INFO] Cap nhat thong tin hoc vien
+11. 2025-10-18 08:45:15 [WARNING] Thoi gian tai trang cham
+12. 2025-10-18 08:49:43 [ERROR] Het thoi gian cho (timeout)
+13. 2025-10-18 08:53:11 [ERROR] Het thoi gian cho (timeout)
+14. 2025-10-18 08:57:39 [INFO] Xem lich hoc tuan nay
+15. 2025-10-18 09:13:31 [INFO] Dang ky lop hoc thu
+16. 2025-10-18 09:17:59 [INFO] Xem lich hoc tuan nay
+17. 2025-10-18 09:21:27 [WARNING] Video bai giang dung luong lon
